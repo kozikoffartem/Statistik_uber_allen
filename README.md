@@ -15,3 +15,5 @@
 [Исследование рынка заведений общественного питания Москвы](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Исследование%20рынка%20общественного%20питания) | Анализ текущего положения рынка общественного питания в Москве. Рекомендации по открытию. Оформление презентации | *pandas, matplotlib, numpy, plotly, seaborn*
 [Дашборд взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Дашборд%20для%20Яндекс.Дзен) | Создание дашборда на основе ТЗ и макета. Оформление презентации | *Tableau*
 [Ссылка на дашборд](https://public.tableau.com/app/profile/.27502562/viz/__16506329865550/_)
+[Итоговый проект](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Дашборд%20для%20Яндекс.Дзен) | Исследование на тему: "Определение неэффективных операторов" ,Дашборд, Призентация, A\B - Тестирование, Проект по SQL| *pandas, matplotlib, numpy, plotly, seaborn*
+
