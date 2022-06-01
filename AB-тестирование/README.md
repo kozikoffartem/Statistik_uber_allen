@@ -1,7 +1,7 @@
 # Steel temperature
 
 #### Задача: 
-- In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.
+- Я — аналитик крупного интернет-магазина. Вместе с отделом маркетинга мы подготовили список гипотез для увеличения выручки. Приоритизируем гипотезы, запустим A/B-тест и проанализируем результаты.
 
 #### Описание:
 - Steel is processed in a metal ladle with a capacity of about 100 tons. To withstand the high temperatures, the ladle is lined with refractory bricks on the inside. Molten steel is poured into the ladle and heated to the desired temperature with graphite electrodes. These are installed in the ladle lid. 
