@@ -1,33 +1,12 @@
-<center><h1>Yandex.Praktikum Data Analyst Projects</h1></center>
+<center><h1> Проекты Data Analyst Яндекс.Практикума</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
-Repository containing portfolio of data science projects completed by me during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
-Presented in the form of iPython Notebooks and readme markdown files. <br>
-
+Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной во время обучающих курсов в Яндекс.Практикуме, представленных в виде записных книжек Python и файлов readme markdown <br>
 <br>
- 
 </p><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Yandex.Praktikum
 
-
-
-
-### Проекты по аналитике данных
+### Проекты курса Data Analyst
 
 Учебные проекты, выполненные на курсе "Аналитик данных" Яндекс.Практикум
 
