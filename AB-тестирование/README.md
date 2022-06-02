@@ -1,17 +1,21 @@
-# A/B-тестирование.
+# Принятие решений в бизнесе на основе данных
+Ппроверка гипотез: как их придумывать, проверять и анализировать результаты проверки.
+## Цели:
+1. Среди бизнес-метрик научиться распознавать важнейшие;
+2. Научиться выдвигать гипотезы;
+3. Познакомиться с методами проверки гипотез;
+4. Изучить подходы к приоритизации гипотез;
+5. Проанализировать A/B-тесты, узнать ограничения применения этого метода и основные ошибки в работе с ним;
+6. Повторить основы статистического анализа данных и углубить их понимание в применении к анализу A/B-тестов.
+## Описание проекта
+Вы — аналитик крупного интернет-магазина. Вместе с отделом маркетинга вы подготовили список гипотез для увеличения выручки.
+Приоритизирувать гипотезы, запустить A/B-тест и проанализируйте результаты.
 
-#### Задача: 
-- Я — аналитик крупного интернет-магазина. Вместе с отделом маркетинга мы подготовили список гипотез для увеличения выручки. Приоритизируем гипотезы, запустим A/B-тест и проанализируем результаты.
+## План исследования: 
 
-#### Описание:
-
-
-
-#### Сфера деятельности: 
-- ndustry companies / Industry / Industry, Services for business [b2b] (outsourcing consulting audit), IT-company, Startups, Services for business [b2b] (outsourcing consulting audit), IT company, Startups, Industry companies / Industry / Manufacturing
-
-#### Используемые библиотеки:
-- Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy, 
-
-#### Теги:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL, A / B testing, Bootstrap, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
+Часть 1. Приоритизация гипотез.
+Часть 2. Анализ A/B-теста.
+Выводы.
+1. Приоритизация гипотез.
+2. Анализ A/B-теста.
+3. Выводы.
