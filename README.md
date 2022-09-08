@@ -4,6 +4,9 @@
 Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной во время обучающих курсов в Яндекс.Практикуме, представленных в виде записных книжек Python и файлов readme markdown <br>
 <br>
 </p><br>
+Мои контакты:
+Почта: kozikoffartem@yandex.ru
+Телеграм: https://t.me/kozikoff14
 # Yandex.Praktikum
 
 ### Проекты курса Data Analyst
