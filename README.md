@@ -5,8 +5,11 @@
 <br>
 </p><br>
 Мои контакты:
+
 Почта: kozikoffartem@yandex.ru
+
 Телеграм: https://t.me/kozikoff14
+
 # Yandex.Praktikum
 
 ### Проекты курса Data Analyst
