@@ -27,7 +27,7 @@
 [Определение неэффективных операторов](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Определение%20неэффективных%20операторов) | Необходимо определить самых неэффективных операторов по определенным признакам низкой эффективности | *pandas, scipy.stats, datetime, numpy, math, matplotlib.pyplot, warnings*
 Проекты на основе BI-систем.       | Описание проекта | Используемая система
 [Дашборд взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Дашборд%20для%20Яндекс.Дзен) | Создание дашборда на основе ТЗ и макета. Оформление презентации | *Tableau*
-[Дашборд по продажам магазинов DataLens.](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
+[Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
 
 
 
