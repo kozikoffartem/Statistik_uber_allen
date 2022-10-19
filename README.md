@@ -17,6 +17,7 @@
 [Тестовое задание VL.RU](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Тестовое%20задание%20VL.ru) |Аналитика крупного интернет-магазина. Вместе с отделом маркетинга подготовили список гипотез для увеличения выручки. Приоритизация гипотез, запуск A/B-тестов и анализ результатов. | *pandas, numpy,datetime, geopy.distance*
 Проекты на основе BI-систем.       | Описание проекта | Используемая система
 [Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
+[Дашборд количества привлечённых пользователей](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20PowerBI) | Создание дашборда на основе ТЗ и макета. | *PowerBI*
 # Yandex.Praktikum
 
 ### Проекты курса Data Analyst
