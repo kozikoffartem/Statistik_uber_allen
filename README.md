@@ -10,6 +10,10 @@
 
 Телеграм: https://t.me/kozikoff14
 
+# Pet project
+Проект                          | Описание проекта | Используемые библиотеки
+-----------------------------------| -----------------|------------------------
+[Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
 # Yandex.Praktikum
 
 ### Проекты курса Data Analyst
@@ -28,7 +32,7 @@
 [Определение неэффективных операторов](https://github.com/kozikoffartem/Yandex.Praktikum/tree/main/Определение%20неэффективных%20операторов) | Необходимо определить самых неэффективных операторов по определенным признакам низкой эффективности | *pandas, scipy.stats, datetime, numpy, math, matplotlib.pyplot, warnings*
 Проекты на основе BI-систем.       | Описание проекта | Используемая система
 [Дашборд взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Tableau) | Создание дашборда на основе ТЗ и макета. Оформление презентации | *Tableau*
-[Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
+
 
 
 
