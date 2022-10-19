@@ -1,5 +1,5 @@
 <center><h1> Проекты Data Analyst</h1></center>
-<a href="https://praktikum.yandex.ru/"><img width=100% src="https://www.ucentral.edu.co/sites/default/files/2021-05/26-05-2021-inteligencia-artificial-big-data-y-criptoactivos-en-contabilidad.jpg"></a><br><br>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://advantageenergypartners.com/wp-content/uploads/2017/08/shutterstock_122832445-1536x1024.jpg"></a><br><br>
 <p align=center>
 Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной в качестве Pet-project и тестовых заданий, представленных в виде записных книжек Python и файлов readme markdown <br>
 <br>
