@@ -10,9 +10,11 @@
 
 Телеграм: https://t.me/kozikoff14
 
-# Pet project
+# Pet-project    
+
 Проект                          | Описание проекта | Используемые библиотеки/Инструменты
 -----------------------------------| -----------------|------------------------
+[Тестовое задание VL.RU](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Тестовое%20задание%20VL.ru) |Аналитика крупного интернет-магазина. Вместе с отделом маркетинга подготовили список гипотез для увеличения выручки. Приоритизация гипотез, запуск A/B-тестов и анализ результатов. | *pandas, scipy.stats, datetime, numpy, math, matplotlib.pyplot, warnings*
 Проекты на основе BI-систем.       | Описание проекта | Используемая система
 [Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
 # Yandex.Praktikum
