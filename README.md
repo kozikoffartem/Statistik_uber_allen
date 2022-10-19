@@ -1,5 +1,5 @@
 <center><h1> Проекты Data Analyst</h1></center>
-<a href="https://praktikum.yandex.ru/"><img width=100% src="https://www.martechcube.com/wp-content/uploads/2021/11/marketingAnalysis.jpg"></a><br><br>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://i.ytimg.com/vi/m7821cDwT1o/maxresdefault.jpg"></a><br><br>
 <p align=center>
 Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной в качестве Pet-project и тестовых заданий, представленных в виде записных книжек Python и файлов readme markdown <br>
 <br>
