@@ -18,6 +18,16 @@
 Проекты на основе BI-систем.       | Описание проекта | Используемая система
 [Дашборд по продажам магазинов](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20Yandex%20Datalens) | Создание дашборда на основе ТЗ и макета. | *Datalens*
 [Дашборд количества привлечённых пользователей](https://github.com/kozikoffartem/Yandex.Practikum/tree/main/Дашборд%20PowerBI) | Создание дашборда на основе ТЗ и макета. | *PowerBI*
+
+
+
+
+<center><h1> Проекты Data Analyst Яндекс.Практикум</h1></center>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
+Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной во время обучающих курсов в Яндекс.Практикуме, представленных в виде записных книжек Python и файлов readme markdown <br>
+<br>
+</p><br>
 # Yandex.Praktikum
 
 ### Проекты курса Data Analyst
