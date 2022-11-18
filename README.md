@@ -26,7 +26,7 @@
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
 Репозиторий, содержащий портфолио проектов в области Data Analyst, выполненных мной во время обучающих курсов в Яндекс.Практикуме, представленных в виде записных книжек Python и файлов readme markdown <br>
-<br>
+<br> 
 </p><br>
 
 ### Проекты курса Data Analyst
